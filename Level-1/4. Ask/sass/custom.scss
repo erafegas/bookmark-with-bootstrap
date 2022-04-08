@@ -1,0 +1,19 @@
+
+$font-family-sans-serif: 'Montserrat', sans-serif;
+
+// scss-docs-start theme-color-variables
+$primary:#5265E1;
+$secondary:#FA5959;
+
+$nav-link-color:                    #4e4e4e;
+$nav-link-hover-color:              none;  
+$nav-tabs-link-active-color:         none;
+$nav-tabs-link-active-border-color:  #FA5959;
+$nav-tabs-link-active-bg: white;
+
+
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+
+
